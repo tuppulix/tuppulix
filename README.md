@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student in Computer scienze
 ---------------------------
 
-I am in the third year of a three-year degree in computer science and my goal is to become a cybersecurity expert.
+I am in the third year of a three-year degree in computer science and my goal is to become a cybersecurity expert / penetration tester .
 
 * 🌍  I'm based in italy
 * ✉️  You can contact me at [carmelo.bertolami29@gmail.com](mailto:carmelo.bertolami29@gmail.com)
