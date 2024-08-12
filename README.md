@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carmelo Bertolami
 =========================================================================================================================================
 
-Student in Computer scienze
+Student in Cybersecurity
 ---------------------------
 
-I am in the third year of a three-year degree in computer science and my goal is to become a cybersecurity expert / penetration tester .
+I am in the first year of a two-year Master's degree in cybersecurity and aim to become a cybersecurity expert / penetration tester .
 
-* 🌍  I'm based in italy
+* 🌍  I'm based in Italy
 * ✉️  You can contact me at [carmelo.bertolami29@gmail.com](mailto:carmelo.bertolami29@gmail.com)
 * 🧠  I'm learning as many things as possible
 * 🤝  I'm open to collaborating on all interesting project
