@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student in Cybersecurity
 ---------------------------
 
-I am in the first year of a two-year Master's degree in cybersecurity and aim to become a cybersecurity expert / penetration tester .
+I am in the first year of a two-year Master's degree in cybersecurity and aim to become a cybersecurity expert / penetration tester / reverse engineer .
 
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [carmelo.bertolami29@gmail.com](mailto:carmelo.bertolami29@gmail.com)
