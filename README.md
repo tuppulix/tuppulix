@@ -87,10 +87,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tuppulix/tuppulix/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/tuppulix/count.svg?"  />
 </div>
